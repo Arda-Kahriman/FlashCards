@@ -1,4 +1,4 @@
-kelimeden birden fazla varsa sil . aynı kelimeden birden fazla olmasın. abate = azalmak / hafiflemek *The pain began to abate after taking the medicine.* (Ağrı ilacı aldıktan sonra azalmaya başladı.)
+abate = azalmak / hafiflemek *The pain began to abate after taking the medicine.* (Ağrı ilacı aldıktan sonra azalmaya başladı.)
 aberrant = anormal / sapkın *His aberrant behavior worried his friends.* (Anormal davranışı arkadaşlarını endişelendirdi.)
 abrasive = aşındırıcı / törpüleyici *Her abrasive tone made the conversation uncomfortable.* (Aşındırıcı tonu sohbeti rahatsız edici hale getirdi.)
 abridge = kısaltmak / özetlemek *The editor decided to abridge the novel for the new edition.* (Editör, yeni baskı için romanı kısaltmaya karar verdi.)
